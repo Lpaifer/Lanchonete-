@@ -1,0 +1,81 @@
+[
+    {
+      "tipo": "refrigerante",
+      "nome": "Guaraná Lata 300ml",
+      "composição": [],
+      "preço": 7.5
+    },
+    {
+        "tipo": "refrigerante",
+        "nome": "Soda Lata 300ml",
+        "composição": [],
+        "preço": 7.5
+      },
+      {
+        "tipo": "suco natural",
+        "nome": "Laranja 300ml",
+        "composição": [],
+        "preço": 6.0
+      },
+      {
+        "tipo": "suco natural",
+        "nome": "uva 300ml",
+        "composição": [],
+        "preço": 6.0
+      },
+    {
+      "tipo": "lanche",
+      "nome": "X-Salada",
+      "composição": ["Pão de hamburguer", "Hamburger bovino 100g", "Alface", "Tomate"],
+      "preço": 15.00
+    },
+    {
+      "tipo": "lanche",
+      "nome": "X-Calabresa",
+      "composição": ["Pão de hamburguer", "Hamburger bovino 100g", "Queijo","Alface","Tomate","Calabresa"],
+      "preço": 20.0
+    },
+    {
+      "tipo": "lanche",
+      "nome": "X-Bacon",
+      "composição": ["Pão de hamburguer", "Hamburger bovino 100g", "Bacon", "Alface", "Tomate","Queijo"],
+      "preço": 20.00
+    }
+    {
+    "tipo": "lanche",
+    "nome": "X-Tudo",
+    "composição": ["Pão de hamburguer", "Hamburger bovino 100g", "Bacon", "Alface", "Tomate","Queijo","Calabresa","ovo","cebola roxa"],
+    "preço": 30.00
+  }
+  {
+    "tipo": "combo",
+    "nome": "kaça feliz",
+    "composição": ["Pão de hamburguer", "Hamburger bovino 100g", "Bacon", "Alface", "Tomate","Queijo","batata frita", "refrigerante"],
+    "preço": 40.00
+  }
+  {
+    "tipo": "combo",
+    "nome": "kaça monstro",
+    "composição": ["Pão de hamburguer", "Hamburger bovino 100g", "Alface", "Tomate","Queijo","Calabresa","ovo","cebola roxa","cheddar","batata frita","refrigerante"],
+    "preço": 50.00
+  }
+  {
+    "tipo": "adicionais",
+    "nome": "molho da casa",
+    "composição": [],
+    "preço": 2.00
+  }
+  {
+    "tipo": "adicionais",
+    "nome": "molho bbq",
+    "composição": [],
+    "preço": 2.00
+  } 
+  {
+    "tipo": "adicionais",
+    "nome": "extra hamburgues",
+    "composição": [],
+    "preço": 4.00
+  }
+  ]
+  

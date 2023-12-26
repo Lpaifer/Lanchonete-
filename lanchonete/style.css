@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333333;
+ }
+  
+ h1 {
+    font-size: 2em;
+    text-align: center;
+    color: #4a4a4a;
+ }
+  
+ h2 {
+    font-size: 1.5em;
+    text-align: center;
+    color: #4a4a4a;
+ }
+  
+ button {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+ }
+  
+ .menu-item {
+    display: none;
+    margin-top: 10px;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+ }
+  
+ .menu-item:hover {
+    background-color: #eeeeee;
+ }
+ body > h3 {
+    margin-top: auto;
+}
+.ras{
+display: grid;
+grid: "uga uga uga"
+}
+p{
+grid-area: uga;
+}
